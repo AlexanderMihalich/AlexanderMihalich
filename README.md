@@ -6,17 +6,19 @@ Proficient: JavaScript, Vue.js, Unity, C#, VR, Android
 😄 About me
 ✌️ My name is Tanya, I am 23 years old. I have been doing programming for about 7 years, trying out different technologies. I have been engaged in industrial development for 4 years, in particular in C#.
 
-<!--
-**AlexanderMihalich/AlexanderMihalich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My skils:
+ - HTML5, БЕМ
+ - CSS3, Sass
+ - JS, Native JS, Node,js
+ - ECMAScript (ES5),(ES6)
+ - Gulp
+ - Git - GitHub
+ - Adaptive layout
+ - Responsive - Adap
+ - Cross-browser layout
+ - React, React Hooks,
+ - Redux, React-Redux,
+ - Json
+ - Figma, Avocode, Zeplin, PhotoShop, PSD
+ - Jquery - (basic)
+ - Bootstrap - (basic)
