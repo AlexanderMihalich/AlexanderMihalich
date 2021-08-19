@@ -38,7 +38,7 @@
  - *Jquery - (basic), Bootstrap - (basic);*
  
  <details>
-  <summery>:zap: Statistics:</summery>
+  <summary>:zap: Statistics:</summary>
    <img align="left" alt="codeSTACKr GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderMihalich&layout=compact"/>
  </details>
 
