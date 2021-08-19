@@ -5,9 +5,6 @@
 
     $ I can understand someone else's code
 
-
-$ 
-
 *All done works were carried out on Speed google on GooglePageSpeed ,validity on W3C*
 
 ## Connect with me:
