@@ -1,7 +1,7 @@
 <h1>Hi there 👋</h1>
-=====================
-I bring order to the chaos, turn coffee into code, automate processes, constantly develop
 
+I bring order to the chaos, turn coffee into code, automate processes, constantly develop
+---
 Proficient: JavaScript, Vue.js, Unity, C#, VR, Android
 
 😄 About me
