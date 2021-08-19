@@ -5,7 +5,7 @@
 [<img align="left" width="22px" alt="Alexander Zamishailo | Telegram" src="https://image.flaticon.com/icons/png/512/152/152827.png"/>][telegram]
 [<img align="left" width="22px" alt="Alexander Zamishailo | Email" src="https://image.flaticon.com/icons/png/512/725/725643.png"/>][email]
 [<img align="left" width="22px" alt="Alexander Zamishailo | Facebook" src="https://image.flaticon.com/icons/png/512/1051/1051309.png"/>][facebook]
-[<img align="left" width="22px" alt="Alexander Zamishailo | Instagram" src="https://image.flaticon.com/icons/png/512/1384/1384031.png"/>][instagram]
+[<img align="left" width="22px" alt="Alexander Zamishailo | Instagram" src="https://image.flaticon.com/icons/png/512/1419/1419647.png"/>][instagram]
 <br>
 
 ## Languages and Tools:
