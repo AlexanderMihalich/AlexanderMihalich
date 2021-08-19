@@ -5,8 +5,6 @@
 
     $ I can understand someone else's code
 
-*All done works were carried out on Speed google on GooglePageSpeed ,validity on W3C*
-
 ## Connect with me:
 [<img align="left" width="22px" alt="Alexander Zamishailo | Telegram" src="https://image.flaticon.com/icons/png/512/152/152827.png"/>][telegram]
 [<img align="left" width="22px" alt="Alexander Zamishailo | Email" src="https://image.flaticon.com/icons/png/512/725/725643.png"/>][email]
