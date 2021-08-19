@@ -1,6 +1,6 @@
-## ***Hi there*** 👋
+# ***Hi there*** 👋
 
-# 😄 ***I'm a Junior FrontEnd developer***
+## 😄 ***I'm a Junior FrontEnd developer***
 ✌️ *My name is Sanya, I am 20 years old. I have been doing programming for about 1.5 years, trying out different technologies, constantly develop.*
 
 ## Connect with me:
