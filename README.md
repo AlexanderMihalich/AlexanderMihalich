@@ -14,7 +14,7 @@
 [<img align="left" width="20px" alt="Alexander Zamishailo | Email" src="https://image.flaticon.com/icons/png/512/725/725643.png"/>][email]
 [<img align="left" width="20px" alt="Alexander Zamishailo | Instagram" src="https://image.flaticon.com/icons/png/512/1384/1384031.png"/>][instagram]
 
-##Languages and Tools:
+## Languages and Tools:
 <img width="20px" alt="" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/> <img width="20px" alt="" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/> <img width="20px" alt="" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"/>
 ---
 
