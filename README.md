@@ -37,6 +37,7 @@
  
  <details>
   <summary>:zap: Statistics:</summary>
+ <br>
    <img align="left" alt="codeSTACKr GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderMihalich&layout=compact"/>
  </details>
 
