@@ -1,4 +1,4 @@
-# Hi there 👋
+# ***Hi there*** 👋
 
 *I bring order to the chaos, turn coffee into code, automate processes, constantly develop*
 
@@ -10,7 +10,7 @@
 ---
 
 ### ***My skils:***
- - HTML5, БЕМ, CSS3, Sass
+ - *HTML5, БЕМ, CSS3, Sass
  - JS, Native JS, Node,js
  - ECMAScript (ES5),(ES6)
  - Responsive, Adaptive, Cross-browser layout
@@ -18,4 +18,4 @@
  - Figma, Avocode, Zeplin, PhotoShop, PSD
  - Gulp, Json
  - Jquery - (basic)
- - Bootstrap - (basic)
+ - Bootstrap - (basic)*
