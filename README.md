@@ -13,9 +13,9 @@ My skils:
  - HTML5, БЕМ, CSS3, Sass
  - JS, Native JS, Node,js
  - ECMAScript (ES5),(ES6)
- - Gulp, Json
  - Responsive, Adaptive, Cross-browser layout
  - React, React Hooks, Redux, React-Redux,
  - Figma, Avocode, Zeplin, PhotoShop, PSD
+ - Gulp, Json
  - Jquery - (basic)
  - Bootstrap - (basic)
