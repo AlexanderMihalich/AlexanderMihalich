@@ -1,10 +1,7 @@
 # ***Hi there*** 👋
 
 ***I'm a Junior FrontEnd developer***
-
 *I bring order to the chaos, turn coffee into code, automate processes, constantly develop*
-
-***Proficient:*** *JavaScript, React.js, Layout*
 
 ## 😄 ***About me***
 ✌️ *My name is Sanya, I am 20 years old. I have been doing programming for about 1.5 years, trying out different technologies.*
