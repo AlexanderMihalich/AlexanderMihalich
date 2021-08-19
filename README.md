@@ -1,6 +1,7 @@
 # ***Hi there*** 👋
+
 ***I'm a frontend developer***
-______________________________
+
 *I bring order to the chaos, turn coffee into code, automate processes, constantly develop*
 
 ***Proficient:*** *JavaScript, React.js, Layout*
