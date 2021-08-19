@@ -1,11 +1,11 @@
 # Hi there 👋
 
-***I bring order to the chaos, turn coffee into code, automate processes, constantly develop***
+*I bring order to the chaos, turn coffee into code, automate processes, constantly develop*
 
-Proficient: JavaScript, React.js, Layout
+***Proficient:*** *JavaScript, React.js, Layout*
 
 ## 😄 About me
-✌️ ***My name is Sanya, I am 20 years old. I have been doing programming for about 1.5 years, trying out different technologies.***
+✌️ *My name is Sanya, I am 20 years old. I have been doing programming for about 1.5 years, trying out different technologies.*
 
 ---
 
