@@ -9,6 +9,11 @@
 ## 😄 ***About me***
 ✌️ *My name is Sanya, I am 20 years old. I have been doing programming for about 1.5 years, trying out different technologies.*
 
+## Connect with me:
+[<img align="left" width="20px" alt="Alexander Zamishailo | Telegram" src="https://image.flaticon.com/icons/png/512/152/152827.png"/>][telegram]
+[<img align="left" width="20px" alt="Alexander Zamishailo | Email" src="https://image.flaticon.com/icons/png/512/725/725643.png"/>][email]
+[<img align="left" width="20px" alt="Alexander Zamishailo | Instagram" src="https://image.flaticon.com/icons/png/512/1384/1384031.png"/>][instagram]
+
 ---
 
 ### ***My skils:***
@@ -21,3 +26,8 @@
  - *Gulp, Json;*
  - *Jquery - (basic);*
  - *Bootstrap - (basic);*
+
+[telegram]:https://t.me/alex_ander_web
+[email]:santa.boy.ran@gmail.com
+[instagram]:https://www.instagram.com/alex_ander.mihalich
+
