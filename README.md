@@ -1,6 +1,7 @@
 # ***Hi there*** 👋
 
 ***I'm a Junior FrontEnd developer***
+
 *I bring order to the chaos, turn coffee into code, automate processes, constantly develop*
 
 ## 😄 ***About me***
