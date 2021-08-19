@@ -36,8 +36,14 @@
  - *Figma, Avocode, Zeplin, PhotoShop, PSD;*
  - *ECMAScript (ES5),(ES6), Gulp, Json;*
  - *Jquery - (basic), Bootstrap - (basic);*
+ 
+ <details>
+  <summery>
+   <img align="left" alt="codeSTACKr GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderMihalich&layout=compact"/>
+  </summery>
+ </details>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderMihalich&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderMihalich&layout=compact) -->
 
 [telegram]:https://t.me/alex_ander_web
 [email]:santa.boy.ran@gmail.com
