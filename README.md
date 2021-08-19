@@ -1,4 +1,10 @@
 ### Hi there 👋
+###I bring order to the chaos, turn coffee into code, automate processes, constantly develop
+
+###Proficient: JavaScript, Vue.js, Unity, C#, VR, Android
+
+###😄 About me
+###✌️ My name is Tanya, I am 23 years old. I have been doing programming for about 7 years, trying out different technologies. I have been engaged in industrial development for 4 years, in particular in C#.
 
 <!--
 **AlexanderMihalich/AlexanderMihalich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
