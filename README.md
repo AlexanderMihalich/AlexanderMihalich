@@ -4,7 +4,7 @@
 
 ***Proficient:*** *JavaScript, React.js, Layout*
 
-## 😄 About me
+## 😄 ***About me***
 ✌️ *My name is Sanya, I am 20 years old. I have been doing programming for about 1.5 years, trying out different technologies.*
 
 ---
