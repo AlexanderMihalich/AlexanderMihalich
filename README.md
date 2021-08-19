@@ -2,7 +2,9 @@
 *My name is Sanya, I'm 20 years old. I have been doing programming for about 1.5 years, trying out different technologies, constantly develop.*
 
 *Working with Gulp for html coding , React redux  for SPA development.*
+
 **I can understand someone else's code**
+
 *All done works were carried out on Speed google on GooglePageSpeed ,validity on W3C*
 
 ## Connect with me:
