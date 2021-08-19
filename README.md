@@ -17,22 +17,22 @@
 <br>
 
 ## Languages and Tools:
-<img align="left" width="26px" alt="" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/> 
-<img align="left" width="26px" alt="" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/> 
-<img align="left" width="26px" alt="" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"/> 
-<img align="left" width="26px" alt="" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/> 
-<img align="left" width="26px" alt="" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/> 
-<img align="left" width="26px" alt="" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/> 
-<img align="left" width="26px" alt="" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/> 
+<img align="left" width="26px" alt="*HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/> 
+<img align="left" width="26px" alt="CSS3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/> 
+<img align="left" width="26px" alt="SASS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"/> 
+<img align="left" width="26px" alt="VSCode" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/> 
+<img align="left" width="26px" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/> 
+<img align="left" width="26px" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/> 
+<img align="left" width="26px" alt="Node.js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/> 
 
 <br>
 
 ---
 
 ### ***My skils:***
- -  *HTML5, БЕМ, CSS3, SASS;*
- -   *JS, Native JS, Node,js;*
- -  *React, React Hooks, Redux, React-Redux;*
+ - *HTML5, БЕМ, CSS3, SASS;*
+ - *JS, Native JS, Node.js;*
+ - *React, React Hooks, Redux, React-Redux;*
  - *Responsive, Adaptive, Cross-browser layout;*
  - *Figma, Avocode, Zeplin, PhotoShop, PSD;*
  - *ECMAScript (ES5),(ES6);*
