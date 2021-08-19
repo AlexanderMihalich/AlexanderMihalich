@@ -4,6 +4,8 @@
 *Working with `Gulp` for `html coding` , `React-Redux`  for `SPA` development.*
 
     $ I can understand someone else's code
+    
+ All done `works were checked` out on Speed google on `GooglePageSpeed` ,validity on `W3C`
 
 ## Connect with me:
 [<img align="left" width="22px" alt="Alexander Zamishailo | Telegram" src="https://image.flaticon.com/icons/png/512/152/152827.png"/>][telegram]
