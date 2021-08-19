@@ -3,6 +3,9 @@
 
 *Working with Gulp for html coding , React redux  for SPA development.*
 
+    $ npm install -g common-readme
+
+
 $ I can understand someone else's code
 
 *All done works were carried out on Speed google on GooglePageSpeed ,validity on W3C*
