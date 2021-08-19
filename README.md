@@ -40,6 +40,8 @@
  - *Jquery - (basic);*
  - *Bootstrap - (basic);*
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderMihalich&layout=compact)
+
 [telegram]:https://t.me/alex_ander_web
 [email]:santa.boy.ran@gmail.com
 [instagram]:https://www.instagram.com/alex_ander.mihalich
