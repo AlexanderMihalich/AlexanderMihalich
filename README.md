@@ -8,9 +8,9 @@
 ✌️ *My name is Sanya, I am 20 years old. I have been doing programming for about 1.5 years, trying out different technologies.*
 
 ## Connect with me:
-[<img align="left" width="22px" alt="Alexander Zamishailo | Telegram" src="https://image.flaticon.com/icons/png/512/152/152827.png"/>][telegram]
-[<img align="left" width="22px" alt="Alexander Zamishailo | Email" src="https://image.flaticon.com/icons/png/512/725/725643.png"/>][email]
-[<img align="left" width="22px" alt="Alexander Zamishailo | Instagram" src="https://image.flaticon.com/icons/png/512/1384/1384031.png"/>][instagram]
+Telegram - [<img align="left" width="22px" alt="Alexander Zamishailo | Telegram" src="https://image.flaticon.com/icons/png/512/152/152827.png"/>][telegram]
+Email - [<img align="left" width="22px" alt="Alexander Zamishailo | Email" src="https://image.flaticon.com/icons/png/512/725/725643.png"/>][email]
+Instagram - [<img align="left" width="22px" alt="Alexander Zamishailo | Instagram" src="https://image.flaticon.com/icons/png/512/1384/1384031.png"/>][instagram]
 
 <br>
 
