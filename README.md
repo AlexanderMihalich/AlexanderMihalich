@@ -5,7 +5,7 @@
 [<img align="left" width="22px" alt="Alexander Zamishailo | Telegram" src="https://image.flaticon.com/icons/png/512/152/152827.png"/>][telegram]
 [<img align="left" width="22px" alt="Alexander Zamishailo | Email" src="https://image.flaticon.com/icons/png/512/725/725643.png"/>][email]
 [<img align="left" width="22px" alt="Alexander Zamishailo | Instagram" src="https://image.flaticon.com/icons/png/512/1384/1384031.png"/>][instagram]
-[<img align="left" width="22px" alt="Alexander Zamishailo | Instagram" src="https://image.flaticon.com/icons/png/512/1384/1384031.png"/>][viber://chat?number=%2B380967786455]
+[<img align="left" width="22px" alt="Alexander Zamishailo | Instagram" src="https://image.flaticon.com/icons/png/512/1384/1384031.png"/>][viber]
 <br>
 
 ## Languages and Tools:
@@ -36,7 +36,7 @@
  </details>
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderMihalich&layout=compact) -->
-
+[viber]:viber://chat?number=%2B380967786455
 [telegram]:https://t.me/alex_ander_web
 [email]:santa.boy.ran@gmail.com
 [instagram]:https://www.instagram.com/alex_ander.mihalich
