@@ -1,12 +1,12 @@
 <h1>Hi there 👋</h1>
 
 I bring order to the chaos, turn coffee into code, automate processes, constantly develop
----
+
 Proficient: JavaScript, Vue.js, Unity, C#, VR, Android
 
 😄 About me
 ✌️ My name is Sanya, I am 20 years old. I have been doing programming for about 1.5 years, trying out different technologies.
-
+---
 My skils:
  - HTML5, БЕМ, CSS3, Sass
  - JS, Native JS, Node,js
