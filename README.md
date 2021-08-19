@@ -9,7 +9,7 @@ Proficient: JavaScript, React.js, Layout
 
 ---
 
-My skils:
+### ***My skils:***
  - HTML5, БЕМ, CSS3, Sass
  - JS, Native JS, Node,js
  - ECMAScript (ES5),(ES6)
