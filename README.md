@@ -1,6 +1,10 @@
 # ***Hi there*** 👋 ***I'm a Junior FrontEnd developer***
 *My name is Sanya, I'm 20 years old. I have been doing programming for about 1.5 years, trying out different technologies, constantly develop.*
 
+*Working with Gulp for html coding , React redux  for SPA development.*
+**I can understand someone else's code**
+*All done works were carried out on Speed google on GooglePageSpeed ,validity on W3C*
+
 ## Connect with me:
 [<img align="left" width="22px" alt="Alexander Zamishailo | Telegram" src="https://image.flaticon.com/icons/png/512/152/152827.png"/>][telegram]
 [<img align="left" width="22px" alt="Alexander Zamishailo | Email" src="https://image.flaticon.com/icons/png/512/725/725643.png"/>][email]
