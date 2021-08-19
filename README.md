@@ -30,15 +30,12 @@
 ---
 
 ### ***My skils:***
- - *HTML5, БЕМ, CSS3, SASS;*
- - *JS, Native JS, Node.js;*
+ - *HTML5, БЕМ, CSS3, SASS, JS, Native JS, Node.js;*
  - *React, React Hooks, Redux, React-Redux;*
  - *Responsive, Adaptive, Cross-browser layout;*
  - *Figma, Avocode, Zeplin, PhotoShop, PSD;*
- - *ECMAScript (ES5),(ES6);*
- - *Gulp, Json;*
- - *Jquery - (basic);*
- - *Bootstrap - (basic);*
+ - *ECMAScript (ES5),(ES6), Gulp, Json;*
+ - *Jquery - (basic), Bootstrap - (basic);*
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderMihalich&layout=compact)
 
